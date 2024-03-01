@@ -1,0 +1,20 @@
+'''
+Task 3: Spotting Indentation Errors
+Read the following code. Is the indentation correct?
+
+mood = "excited"
+
+if mood == "excited":
+    print("Yay! Let's have fun.")
+    else:
+print("Let's find something fun to do!")
+If the indentation is wrong, correct it.
+'''
+
+
+mood = "excited"
+
+if mood == "excited":
+    print("Yay! Let's have fun.")
+else:
+    print("Let's find something fun to do!")

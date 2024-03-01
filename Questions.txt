@@ -1,0 +1,170 @@
+Python Indentation Practice with if Statements
+
+Objective:
+The aim of this assignment is to understand the importance of indentation in Python, especially with if statements.
+
+
+Task 1: Code Correction
+Below is a piece of Python code with incorrect indentation. Your task is to correct it.
+
+weather = "sunny"
+
+if weather == "sunny":
+print("Wear sunglasses!")
+else:
+print("Take an umbrella!")
+
+
+Task 2: Your Mood Today
+Ask the user how they feel today. If they say "happy", print "That's great to hear!", and if they say "sad", print "I hope your day gets better!". Ensure your if statement is properly indented.
+
+
+Task 3: Spotting Indentation Errors
+Read the following code. Is the indentation correct?
+
+mood = "excited"
+
+if mood == "excited":
+    print("Yay! Let's have fun.")
+    else:
+print("Let's find something fun to do!")
+If the indentation is wrong, correct it.
+
+By the end of this assignment, you should feel more confident about how if statements work in Python and how to indent them properly.
+
+
+2. Python Comments & Multi-line Practice
+Objective:
+The goal of this assignment is to practice using single-line and multi-line comments in Python.
+
+
+Task 1: Create a Poem using Comments
+Craft a short poem about Python. Each line of the poem should be a single-line comment. Here's an example to get you started:
+
+# Python, oh Python, so clear and so neat
+# With every new challenge, you're hard to beat.
+# ...
+Continue the poem with at least three more lines!
+
+
+Task 2: Multi-line Poem
+Now, craft a multi-line poem about Python. Instead of using single-line comments, use triple quotes to make it a multi-line comment. Here's an example:
+
+'''
+Python, in the realm of code you shine,
+With simplicity and grace, you're truly divine.
+...
+'''
+Extend the poem to at least five lines.
+
+
+Task 3: Combining Single and Multi-line Comments
+Choose one line from your single-line comment poem and another line from your multi-line comment poem. Put these lines into a new Python script and separate them with a descriptive single-line comment about each.
+
+For instance:
+
+# This line is from my first poem
+# With every new challenge, you're hard to beat.
+
+# This line is from my multi-line poem
+'''
+With simplicity and grace, you're truly divine.
+'''
+
+
+3. Python Naming Convention Practice
+Objective:
+The aim of this assignment is to understand and apply Python's naming conventions, particularly for variables and constants.
+
+
+Task 1: Code Correction
+You have been given a piece of code with several variable and constant names that don't follow the Python naming convention. Your task is to correct them:
+
+Pi_value = 3.14
+userAge = 25
+user_location = "New York"
+MAXLIMIT = 1000
+Python Data Types and type() Function
+Objective:
+The aim of this assignment is to practice identifying and using Python's basic data types, as well as the type() function for checking a variable's data type.
+
+
+Task 1: Code Correction
+Given below are some variable assignments. Your task is to identify the data type of each variable and then use the type() function to print it out:
+
+variable_a = "Hello, World!"
+variable_b = 23
+variable_c = 3.14
+variable_d = True
+
+
+4. Python Dynamic Typing Practice
+Objective:
+The aim of this assignment is to get hands-on with Python's dynamic typing feature, which allows variables to change their data type during runtime.
+
+
+Task 1: Code Correction
+Below is a piece of code where a variable's data type changes. Your task is to print the type of the variable after each assignment to see the dynamic nature in action:
+
+dynamic_variable = "This is a string"
+# (Your code to print the type of dynamic_variable here)
+
+dynamic_variable = 100
+# (Your code to print the type of dynamic_variable here)
+
+dynamic_variable = 25.5
+# (Your code to print the type of dynamic_variable here)
+Remember, in Python, it's not about the variable itself, but the value it holds that determines its type!
+
+
+5. Arithmetic Operations in Daily Life
+Objective:
+The aim of this assignment is to get familiarized with basic arithmetic operations and understand how they can be applied in everyday situations.
+
+Tasks:
+
+
+Task 1: Grocery Store Math
+Calculate the total cost of three items you'd commonly find in a grocery store, given their individual prices.
+
+
+Task 2: Bank Interest
+If you have a savings account with a particular initial amount and a fixed yearly interest rate, calculate the total amount in your account after a year.
+
+
+Task 3: Area and Perimeter
+Given the length and width of a rectangle, compute both its area and perimeter using arithmetic operators.
+
+
+6. Understanding Assignments and Comparisons
+Objective:
+The aim of this assignment is to get a grasp on how assignment operators work and how values can be compared using comparison operators.
+
+Tasks:
+
+
+Task 1: Value Swapping
+Swap the values of two given numbers using assignment operators and then compare them to ensure they have been swapped.
+
+Task 2: Perfect Square Checker
+Given a number, determine if it's a perfect square (like 1, 4, 9, 16, …). Hint: You might need the exponentiation operator for this.
+
+
+7. Exploring Logical Operations and Precedence
+Objective:
+The aim of this assignment is to grasp the concept of logical operations and understand how operator precedence can affect the outcome of an operation.
+
+Tasks:
+
+
+Task 1: Simple Logic Puzzles
+Given a set of True or False values, use the AND, OR, and NOT operators to come up with a desired True or False outcome.
+
+
+Task 2: Validating Calculations
+Calculate the value of a particular arithmetic expression twice: once normally, and once using parentheses. Compare the two results to see if they match.
+
+
+Task 3: Mix and Match
+Combine arithmetic, logical, and comparison operators in a single expression and predict the outcome. Then, compute the expression to see if the prediction was correct.
+
