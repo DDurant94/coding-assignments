@@ -1,2 +1,3 @@
 # Coding Temple
-homework assignments 
+Homework Assignments 
+Author: Daniel J Durant
