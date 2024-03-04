@@ -10,4 +10,4 @@ z = 5
 if w * x and y * z >= x ** y: # both w * x and y * z have to be great than or equal to x to the y power. In this example that wont happen so it will print the else statement.
   print("x to the y power isn't greater than or equal to both w * x and y * z!")
 else:
-  print("x to the y power is greater thanboth w * x and y * z aren't greater!")
+  print("x to the y power is greater than both w * x and y * z aren't greater!")
